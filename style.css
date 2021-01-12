@@ -98,7 +98,8 @@ body {
 }
 
 .progress__filled {
-    /*width: 0;*/
+    position: relative;
+    width: 0;
     background: #ffc600;
 }
 
